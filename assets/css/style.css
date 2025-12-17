@@ -104,8 +104,8 @@
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #fff;
-  border: 2px solid #fff;
+  color: #2c93f4aa;
+  border: 2px solid #2c93f4aa;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -116,6 +116,8 @@
 }
 
 .contactme:hover{
+  font-size: 15px;
+  border: 1px solid #2c93f4aa;
   color: #f5b35d;
   background-color: white;
 }
